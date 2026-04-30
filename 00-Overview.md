@@ -6,7 +6,8 @@ RoboShop Microservices is a cloud-native e-commerce application for robotics com
 
 ## Architecture
 
-![RoboShop Microservices Architecture](architecture.jpg)
+<img width="2400" height="1120" alt="microservices_architecture" src="https://github.com/user-attachments/assets/ecf317c2-2ee9-4efe-8b21-eccf52059e99" />
+
 
 ## Components
 
